@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skullreapah
 - 👀 I’m interested in Cybersecurity and video game modding/hacking
-- 🌱 I’m currently learning Java and Minecraft modding
+- 🌱 I’m currently chilling
 - 💞️ I’m looking to collaborate on exploit research
 
 <!---
